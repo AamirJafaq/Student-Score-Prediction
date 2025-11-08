@@ -1,4 +1,4 @@
-# Student-Score-Prediction
+# Student-Score-Prediction-Model
 **Machine learning model to predict students' exam scores based on their study hours**
 * Dataset (Recommended): Student Performance Factors (Kaggle)
 * Build a model to predict students' exam scores based on their study hours
